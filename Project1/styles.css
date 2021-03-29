@@ -50,7 +50,7 @@ body {
   
     display: -webkit-flex; /* vendor prefix */
   
-    margin: 50px auto; /* Adds spacing at top of all sections and then centers them */
+    margin: 70px auto; /* Adds spacing at top of all sections and then centers them */
   
     width: 450px; /* approximate width of each section */
   
